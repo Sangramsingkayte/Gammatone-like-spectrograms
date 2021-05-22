@@ -3,17 +3,8 @@ Gammatone Filterbank Toolkit
 
 *Utilities for analysing sound using perceptual models of human hearing.*
 
-Jason Heeris, 2013
-
-Summary
--------
-
-This is a port of Malcolm Slaney's and Dan Ellis' gammatone filterbank MATLAB
-code, detailed below, to Python 2 and 3 using Numpy and Scipy. It analyses signals by
-running them through banks of gammatone filters, similar to Fourier-based
-spectrogram analysis.
-
-![Gammatone-based spectrogram of Für Elise](doc/FurElise.png)
+Gammatone filterbank MATLAB code, detailed below, to Python 2 and 3 using Numpy and Scipy. It analyses signals by
+running them through banks of gammatone filters, similar to Fourier-based spectrogram analysis.
 
 Installation
 ------------
