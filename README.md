@@ -12,7 +12,7 @@ Installation
 You can install directly from this git repository using:
 
 ```text
-pip install git+https://github.com/detly/gammatone.git
+pip install git+https://github.com/Sangramsingkayte/Gammatone-like-spectrograms
 ```
 
 ...or you can clone the git repository however you prefer, and do:
